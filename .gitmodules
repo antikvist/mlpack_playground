@@ -1,0 +1,18 @@
+[submodule "contrib/mimalloc"]
+	path = contrib/mimalloc
+	url = https://github.com/microsoft/mimalloc.git
+[submodule "contrib/mlpack"]
+	path = contrib/mlpack
+	url = https://github.com/mlpack/mlpack.git
+[submodule "contrib/armadillo-code"]
+	path = contrib/armadillo-code
+	url = https://gitlab.com/conradsnicta/armadillo-code.git
+[submodule "contrib/cereal"]
+	path = contrib/cereal
+	url = https://github.com/USCiLab/cereal.git
+[submodule "contrib/OpenBLAS"]
+	path = contrib/OpenBLAS
+	url = https://github.com/xianyi/OpenBLAS.git
+[submodule "contrib/boost"]
+	path = contrib/boost
+	url = https://github.com/boostorg/boost.git
